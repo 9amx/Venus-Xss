@@ -107,7 +107,7 @@ sudo mv chromedriver /usr/bin
 
 Run the scanner:
 ```bash
-python xss_validator.py
+python xss.py
 ```
 
 The interactive menu will guide you through:
