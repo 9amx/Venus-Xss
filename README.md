@@ -66,7 +66,7 @@ Venus XSS Scanner is an advanced security tool designed to detect Cross-Site Scr
 
 1. Clone the repository:
 ```bash
-https://github.com/9amx/Venus-Xss.git
+git clone https://github.com/9amx/Venus-Xss.git
 cd venus-xss
 ```
 
